@@ -1,0 +1,6 @@
+{
+  "name": "Slap Buddy",
+  "description": "Playful 2D interactive slap game with custom friend photos, cartoon handprints, synthesized slap effects, and meme audio reactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
